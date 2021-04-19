@@ -45,7 +45,7 @@
 				<li id="archives"><a href="/archive/">Archive</a></li>
 				<li id="home"><a href="/"></a></li>
 				<li id="links"><a href="/links/">Links</a></li>
-				<li id="timeline"><a href="http://vadimsbrodskis.com" target="_blank">Résumé</a></li>
+				<li id="countries"><a href="/countries">Countries</a></li>
 			</ul>
 		</nav>
 	</header>

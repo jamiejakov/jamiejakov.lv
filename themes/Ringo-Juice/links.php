@@ -16,6 +16,7 @@ Template Name: Links
 		<ul>
 			<li id="about"><a href="/about/">About</a></li>
 			<li id="archives"><a href="/archive/">Archive</a></li>
+			<li id="countries"><a href="/countries/">Countries</a></li>
 			<li id="timeline"><a href="http://vadimsbrodskis.com" target="_blank">Résumé</a></li>
 			<li id="home"><a href="/ringo">Ring-O</a></li>
 		</ul>
@@ -31,16 +32,15 @@ Template Name: Links
 		</p>
 		<a href="/ringo"><img class="background" id="friends_bg" src="http://jamiejakov.me/wp-content/images/friends.png" scale="0"></a>
 		<ul>
+			<li><a target="_new" href="https://blog.yaakov.online"><img class="favi" alt="" src="http://i.imgur.com/CdxveTq.png" scale="0">Yaakov Online</a> by <a target="_new" href="https://twitter.com/yaakov_h">Yaakov</a></li>
 			<li>
 				<a target="_new" href="http://rubenerd.com/"><img class="favi" alt="" src="http://rubenerd.com/favicon.ico" scale="0">Rubénerd</a> by <a target="_new" href="https://twitter.com/Rubenerd_Blog">Ruben</a></li>
 			<li><a target="_new" href="http://kirinyan.net"><img class="favi" alt="" src="http://kirinyan.net/favicon.ico" scale="0">kirinyan</a> by <a target="_new" href="https://twitter.com/hanezawakirika">Clara</a></li>
-			<li><a target="_new" href="http://alonelyseptember.org/"><img class="favi" alt="" src="http://alonelyseptember.org/wp-content/themes/alonelyseptember.org/favicons/favicon.ico" scale="0">A Lonely September</a>&nbsp;by&nbsp;<a target="_new" href="https://twitter.com/Sebasu_tan">Sebastian</a></li>
 			<li><a target="_new" href="https://thelifeofatonkatsu.wordpress.com/"><img class="favi" alt="" src="https://s2.wp.com/i/favicon.ico" scale="0">The Life of Tonkatsu</a>&nbsp;by&nbsp;<a target="_new" href="https://twitter.com/tinytonkatsu">Ton</a></li>
 			<li><a target="_new" title="Abstract Lad" href="https://abstractlad.wordpress.com"><img class="favi" alt="" src="https://s2.wp.com/i/favicon.ico" scale="0">Abstract Lad</a> by <a target="_new" href="https://twitter.com/gexgrino">German</a></li>
 			<li><a target="_new" title="Stuff I Like" href="http://fekete-rigo.tumblr.com"><img class="favi" alt="" src="http://24.media.tumblr.com/avatar_5f3c0f09194a_128.png" scale="0">Stuff I like</a> by <a target="_new" href="https://twitter.com/fekete_rigo">mad</a></li>
 			<li><a target="_new" href="http://hey.georgie.nu/"><img class="favi" alt="" src="http://hey.georgie.nu/wp-content/themes/hg-bermuda/favicons/72.png" scale="0">Hey Georgie</a>&nbsp;by&nbsp;<a href="https://twitter.com/georgiecel">Georgie</a></li>
-			<li><a target="_new" title="Grass is greener です" href="http://grassisgreenerdesu.wordpress.com"><img class="favi" alt="" src="https://i.imgur.com/CdxveTq.png" scale="0">Grass is greener です</a> by <a target="_new" href="https://twitter.com/grass_desu">grass</a></li>
-			<li><a target="_new" href="https://blog.yaakov.online"><img class="favi" alt="" src="http://i.imgur.com/CdxveTq.png" scale="0">Yaakov Online</a> by <a target="_new" href="https://twitter.com/yaakov_h">Yaakov</a></li>
+
 		</ul>
 	
 	</div>
