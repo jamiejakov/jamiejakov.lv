@@ -127,7 +127,7 @@ nav {
   display: flex;
   -webkit-filter: none;
   filter: none;
-  margin: 60px auto 0 auto;
+  margin: 0 auto;
   max-width: 960px;
   text-align: center;
   font-size: 1.19813rem;
